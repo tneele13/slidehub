@@ -2,5 +2,6 @@
 @pcmanfm --desktop --profile LXDE-pi
 @xscreensaver -no-splash
 
+~/slidehub/update.sh
 ~/slidehub/slidehub.sh
 
